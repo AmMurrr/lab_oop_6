@@ -1,0 +1,8 @@
+Toad Sanyek {3, 8}
+Toad Frog {3, 7}
+Toad Rainy {12, 12}
+Bull BigBlack {5, 6}
+Bull Cow {9, 9}
+Dragon Alduin {10, 10}
+Dragon Zmei_Gorinick {15, 15}
+
